@@ -25,11 +25,11 @@
     "prisma:migrate:dev": " prisma migrate dev --create-only"
   },
   "dependencies": {
-    "@nestjs/common": "^9.0.0",
-    "@nestjs/core": "^9.0.0",
+    "@nestjs/common": "^9.4.3",
+    "@nestjs/core": "^9.4.3",
     "@nestjs/jwt": "^10.0.3",
     "@nestjs/passport": "^9.0.3",
-    "@nestjs/platform-express": "^9.0.0",
+    "@nestjs/platform-express": "^9.4.3",
     "@prisma/client": "^4.15.0",
     "class-validator": "^0.14.0",
     "passport": "^0.6.0",
